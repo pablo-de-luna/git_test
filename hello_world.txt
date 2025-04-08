@@ -1,5 +1,5 @@
 Hello world! Test for the git basics lesson of the Odin Project
-Testting workflow of Git/GitHub
+Testing workflow of Git/GitHub
 Test
 Another commit practice Test
 And another one
